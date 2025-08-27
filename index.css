@@ -25,7 +25,7 @@ a {
     font-weight: 300;
     font-style: italic;
     font-size: 25px;
-    padding: 20px;
+    padding: 19px;
     color: white;
 }
 
@@ -101,8 +101,13 @@ a {
 
 .owllogo{
     position: absolute;
-    top: 110px;
-    left: 1240px;
+    top: 175px;
+    left: 1000px;
+}
+
+
+.owlimg{
+    /* margin-right: 100px; */
 }
 
 
@@ -308,7 +313,7 @@ a {
     display: flex;
     justify-content: center;
     padding: 30px;
-    margin-left: 385px;
+    margin-left: 145px;
     font-weight: 100;
 }
 
@@ -322,6 +327,7 @@ a {
 
 
 .moderncontentmain4{
+    margin-left: 115px;
     margin-top: 25px;
     margin-right: 385px;
 }
@@ -394,20 +400,21 @@ a {
     display: flex;
     justify-content: center;
     padding: 30px;
-    margin-left: 445px;
+    margin-left: 155px;
     font-weight: 100;
 }
 
 
 .modulesimg6{
     
-    width: 31%;
+    width: 45%;
     margin-left: 160px;
     padding: 25px;
 }
 
 
 .modulescontentmain6{
+    margin-left: 90px;
     margin-top: 30px;
     margin-right: 119px;
 }
@@ -436,7 +443,7 @@ a {
 .horizontalline{
     margin-top: 150px;
     width: 50%;
-    margin-left: 470px;
+    margin-left: 305px;
 }
 
 
@@ -448,7 +455,7 @@ a {
 
 .main7{
     width: 50%;
-    margin-left: 465px;
+    margin-left: 300px;
     margin-top: 50px;
     text-align: center;
 }
@@ -473,6 +480,7 @@ a {
 
 
 .footerbox{
+    margin-right: 100px;
     margin-top: 120px;
     justify-content: center;
     display: flex;
